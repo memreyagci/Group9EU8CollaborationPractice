@@ -1,0 +1,2 @@
+public class Rovshan2 {
+}
