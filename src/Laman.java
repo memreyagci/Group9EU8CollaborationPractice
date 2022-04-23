@@ -4,5 +4,7 @@ public class Laman {
         System.out.println("Test case 001 started ");
 
         // code goes here
+
+        System.out.println("Test case 001 completed successfully");
     }
 }
